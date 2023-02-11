@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/23_面试需要准备的代码/23_面试需要准备的代码.iml" filepath="$PROJECT_DIR$/23_面试需要准备的代码/23_面试需要准备的代码.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DFS_or_BFS/DFS_or_BFS.iml" filepath="$PROJECT_DIR$/DFS_or_BFS/DFS_or_BFS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Leetcode.iml" filepath="$PROJECT_DIR$/.idea/Leetcode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Thread/Thread.iml" filepath="$PROJECT_DIR$/Thread/Thread.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dp/dp.iml" filepath="$PROJECT_DIR$/dp/dp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zx/zx.iml" filepath="$PROJECT_DIR$/zx/zx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/回溯/回溯.iml" filepath="$PROJECT_DIR$/回溯/回溯.iml" />
+      <module fileurl="file://$PROJECT_DIR$/排序算法/排序算法.iml" filepath="$PROJECT_DIR$/排序算法/排序算法.iml" />
+      <module fileurl="file://$PROJECT_DIR$/数组/数组.iml" filepath="$PROJECT_DIR$/数组/数组.iml" />
+      <module fileurl="file://$PROJECT_DIR$/栈/栈.iml" filepath="$PROJECT_DIR$/栈/栈.iml" />
+      <module fileurl="file://$PROJECT_DIR$/树/树.iml" filepath="$PROJECT_DIR$/树/树.iml" />
+      <module fileurl="file://$PROJECT_DIR$/牛客/牛客.iml" filepath="$PROJECT_DIR$/牛客/牛客.iml" />
+      <module fileurl="file://$PROJECT_DIR$/笔试/笔试.iml" filepath="$PROJECT_DIR$/笔试/笔试.iml" />
+    </modules>
+  </component>
+</project>
